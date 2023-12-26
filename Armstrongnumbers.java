@@ -4,7 +4,6 @@ public class Armstrongnumbers{
         //The number is armstrong number if sum of its saparate digits cube is same number ex. 153
 
         // System.out.println(isArmstrong(155)); // printing if number is armstrong or not
-
         for (int i = 100; i<1000; i++){
             if (isArmstrong(i)){
                 System.out.print(i+" ");
