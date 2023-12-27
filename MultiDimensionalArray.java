@@ -1,6 +1,5 @@
 import java.util.*;
 
-import javax.sql.rowset.spi.SyncResolver;
 public class MultiDimensionalArray{
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
@@ -37,5 +36,6 @@ public class MultiDimensionalArray{
         for (int[] a : arr3){
         System.out.println(Arrays.toString(a));
         }
+        in.close();
     }
 }

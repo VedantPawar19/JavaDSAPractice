@@ -17,5 +17,7 @@ public class MultiArrayLists{
             }
         }
         System.out.println(list);
+        in.close();
     }
+
 }

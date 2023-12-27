@@ -11,6 +11,8 @@ public class SwapArrayElements{
 
         swap(arr, 0, 1);
         System.out.println(Arrays.toString(arr));
+
+        in.close();
     }
 
     static void swap(int[] a, int index0, int index1){
