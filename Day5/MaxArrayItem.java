@@ -1,8 +1,8 @@
 public class MaxArrayItem{
     public static void main(String[] args){
-        int[] arr = {};
+        int[] arr = {1,2,3,4,6,8,6,5,5,4165,1651,312,33,2,14,5,65,25,0};
         System.out.println(max(arr));
-        System.out.println(maxRange(arr, 5, 4));
+        System.out.println(maxRange(arr, 10, 15));
         
     }
 
@@ -26,10 +26,10 @@ public class MaxArrayItem{
     static int maxRange(int[] array, int start, int end){
         //edge cases
         if (end<start){
-            return -1;
+            return Integer.MAX_VALUE;
         }
         if (array == null){
-            return -1;
+            return Integer.MAX_VALUE;
         }
 
         int maxno = array[start];

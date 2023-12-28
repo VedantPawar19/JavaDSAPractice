@@ -1,0 +1,8 @@
+# .gitignore
+
+# Java
+*.class
+*.jar
+
+# Visual Studio Code
+.vscode/
