@@ -4,7 +4,7 @@ package Day6;
 public class CeilingOfNumber{
     public static void main(String[] args) {
         int[] arr= {2,3,5,8,12,45};
-        System.out.println(searchInsert(arr, 10));
+        System.out.println(searchInsert(arr, 12));
     }
 
     static int searchInsert(int[] nums, int target) {
@@ -19,7 +19,7 @@ public class CeilingOfNumber{
             }else if(target<nums[mid]){
                 end=mid-1;
             }else{
-                return mid;
+                return nums[mid];
             }
         }
         return nums[start];        

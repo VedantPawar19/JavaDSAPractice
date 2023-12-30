@@ -19,7 +19,7 @@ public class FloorOfNumber{
             }else if(target<nums[mid]){
                 end=mid-1;
             }else{
-                return mid;
+                return nums[mid];
             }
         }
         return nums[end];
