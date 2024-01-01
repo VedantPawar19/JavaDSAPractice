@@ -8,6 +8,9 @@ public class HCFandLCM {
     }
 
     static int hcf(int a, int b) {
+        if (a == 0 || b == 0) {
+            return -1;  // HCF is undefined for zero or one of the numbers is zero
+        }
 
         int minNum = Math.min(a, b);
         for (int i = minNum; i >= 1; i--) {
@@ -20,6 +23,9 @@ public class HCFandLCM {
 
     static int lcm(int a, int b) {
         int hcf = hcf(a, b);
-        return (a * b) / hcf;
+        if (hcf == -1) {
+            return -1;
+        }
+        return (a * b) / hcf;  // LCM is undefined if HCF is undefined
     }
 }
