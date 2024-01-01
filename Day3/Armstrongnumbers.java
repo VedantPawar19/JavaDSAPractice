@@ -22,10 +22,11 @@ public class Armstrongnumbers{
             n/=10;
         }
 
-        if (sum==original){
-            return true;
-        }
-        return false;
+        return (sum==original);
+        // if (sum==original){
+        //     return true;
+        // }
+        // return false;
     }
 
 }
