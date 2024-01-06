@@ -1,4 +1,4 @@
-package Day6;
+package Day06;
 
 public class OrderAgnosticBinarySearch{
     public static void main(String[] args){

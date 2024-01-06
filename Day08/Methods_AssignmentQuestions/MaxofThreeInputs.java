@@ -1,4 +1,4 @@
-package Day8.Methods_AssignmentQuestions;
+package Day08.Methods_AssignmentQuestions;
 
 import java.util.Scanner;
 

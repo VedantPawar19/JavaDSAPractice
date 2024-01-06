@@ -1,4 +1,4 @@
-package Day8;
+package Day08;
 //Question is to assume array is infinite so cannot use array.length while applying binary search
 //So we have to move in chunks to find target
 //Source: https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/

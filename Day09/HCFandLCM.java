@@ -1,4 +1,4 @@
-package Day9;
+package Day09;
 
 public class HCFandLCM {
     public static void main(String[] args) {

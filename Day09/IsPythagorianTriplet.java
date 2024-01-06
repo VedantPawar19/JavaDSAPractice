@@ -1,4 +1,4 @@
-package Day9;
+package Day09;
 import java.util.Scanner;
 
 //Write a function to check if a given triplet is a Pythagorean triplet or not. 
