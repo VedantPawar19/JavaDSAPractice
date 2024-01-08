@@ -1,4 +1,3 @@
-package Day12;
 //https://leetcode.com/problems/search-in-rotated-sorted-array/
 //Find pivot index
 //both sides are sorted ascending array so apply binary search

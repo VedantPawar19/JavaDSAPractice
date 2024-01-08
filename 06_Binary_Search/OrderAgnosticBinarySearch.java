@@ -1,5 +1,3 @@
-package Day06;
-
 public class OrderAgnosticBinarySearch{
     public static void main(String[] args){
         //Give array is Order agnostic. It is sorted but we do not know if ascending or descending order.

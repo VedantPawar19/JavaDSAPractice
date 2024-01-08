@@ -1,4 +1,4 @@
-package Day12;
+
 // https://leetcode.com/problems/find-the-array-concatenation-value/
 
 public class ArrayConcIntVal {

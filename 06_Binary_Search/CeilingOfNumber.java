@@ -1,6 +1,3 @@
-package Day06;
-
-
 public class CeilingOfNumber{
     public static void main(String[] args) {
         int[] arr= {2,3,5,8,12,45};

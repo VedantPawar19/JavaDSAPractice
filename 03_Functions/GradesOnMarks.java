@@ -1,4 +1,3 @@
-package Day09;
 import java.util.Scanner;
 
 public class GradesOnMarks {

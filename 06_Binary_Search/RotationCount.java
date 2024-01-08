@@ -1,4 +1,3 @@
-package Day13;
 //https://www.geeksforgeeks.org/problems/rotation4723/1
 //Solved on geeksforgeeks
 

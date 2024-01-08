@@ -1,4 +1,3 @@
-package Day09;
 //Write a function to find if a number is a palindrome or not. Take number as parameter.
 //https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/
 import java.util.Scanner;

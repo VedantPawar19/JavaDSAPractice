@@ -1,4 +1,3 @@
-package Day08.Methods_AssignmentQuestions;
 import java.util.Scanner;
 //Define a program to find out whether a given number is even or odd.
 

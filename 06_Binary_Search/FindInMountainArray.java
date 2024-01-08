@@ -1,5 +1,3 @@
-package Day12;
-
 //Find target in bitonic or mountain array for example [1,2,3,4,5,3,1]
 //Question is from leetcode but there it is interactive problem so some modifications needed in code but for now Solve in default way.
 public class FindInMountainArray {

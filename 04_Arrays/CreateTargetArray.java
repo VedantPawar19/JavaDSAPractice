@@ -1,7 +1,7 @@
-package Day10.PracticeArray_SolvedOnLeetcode;
 import java.util.*;
 
 //https://leetcode.com/problems/create-target-array-in-the-given-order/
+//Solved on leetcode
 
 class Solution {
     public int[] createTargetArray(int[] nums, int[] index) {

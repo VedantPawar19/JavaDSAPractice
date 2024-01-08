@@ -1,5 +1,3 @@
-package Day08.Methods_AssignmentQuestions;
-
 import java.util.Scanner;
 
 //Question: Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.

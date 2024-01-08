@@ -1,5 +1,3 @@
-package Day06;
-
 //Smallest number greater than equal to target
 public class FloorOfNumber{
     public static void main(String[] args) {

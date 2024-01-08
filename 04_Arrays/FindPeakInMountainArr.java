@@ -1,4 +1,3 @@
-package Day11;
 //https://leetcode.com/problems/find-peak-element/
 
 public class FindPeakInMountainArr {

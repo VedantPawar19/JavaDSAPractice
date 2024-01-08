@@ -1,9 +1,8 @@
-package Day10.PracticeArray_SolvedOnLeetcode;
-
 import java.util.ArrayList;
 import java.util.List;
 
 //https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+//Solved on leetcode
 
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {

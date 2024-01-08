@@ -1,4 +1,3 @@
-package Day12;
 //https://leetcode.com/problems/single-element-in-a-sorted-array/
 //Directly Solved on leetcode.com then copy pasted here
 

@@ -1,6 +1,5 @@
-package Day10.PracticeArray_SolvedOnLeetcode;
-
 //https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+//Solved on leetcode
 
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {

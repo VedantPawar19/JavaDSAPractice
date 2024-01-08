@@ -1,6 +1,5 @@
-package Day10.PracticeArray_SolvedOnLeetcode;
-
 //https://leetcode.com/problems/number-of-good-pairs/
+//Solved on leetcode
 
 class Solution {
     public int numIdenticalPairs(int[] nums) {

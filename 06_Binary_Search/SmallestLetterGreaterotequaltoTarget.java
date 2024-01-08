@@ -1,4 +1,3 @@
-package Day07;
 //https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 
 public class SmallestLetterGreaterotequaltoTarget {

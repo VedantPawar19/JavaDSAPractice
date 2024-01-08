@@ -1,4 +1,4 @@
-package Day06;
+
 
 public class BinarySearchCode {
     public static void main(String[] args) {

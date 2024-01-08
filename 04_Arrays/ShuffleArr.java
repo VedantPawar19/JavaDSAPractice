@@ -1,6 +1,5 @@
-package Day10.PracticeArray_SolvedOnLeetcode;
-
 //https://leetcode.com/problems/shuffle-the-array/
+//Solved on leetcode. Class name is default from leetcode
 
 class Solution {
     public int[] shuffle(int[] nums, int n) {

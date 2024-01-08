@@ -1,4 +1,3 @@
-package Day11;
 //https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/
 
 public class MountainArrayPeakIndex {
