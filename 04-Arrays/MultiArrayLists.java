@@ -12,7 +12,7 @@ public class MultiArrayLists{
         }
         //add elements
         for (int i = 0; i < 3; i++) {
-            for (int j=0; j<4; j++){
+            for (int j=0; j < 4; j++){
                 list.get(i).add(in.nextInt());
             }
         }
